@@ -1,0 +1,57 @@
+name: plantify
+description: Plantify - Plant Care, Shop & Services App
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/home_banner.jpg
+    - assets/images/trending.jpg
+    - assets/images/plant_product.jpg
+    - assets/images/badge_50.png
+    - assets/images/btn_icon_1.png
+    - assets/images/btn_icon_2.png
+    - assets/images/btn_icon_3.png
+    - assets/images/btn_icon_4.png
+    - assets/images/btn_icon_5.png
+    - assets/images/btn_shop.png
+    - assets/images/btn_services.png
+    - assets/images/btn_posts.png
+    - assets/images/icon_search.png
+    - assets/images/icon_filter.png
+    - assets/images/icon_location.png
+    - assets/images/icon_clock.png
+    - assets/images/icon_calendar.png
+    - assets/images/icon_arrow.png
+    - assets/images/icon_arrow_lg.png
+    - assets/images/icon_location_sm.png
+    - assets/images/icon_clock_sm.png
+    - assets/images/nav_home.png
+    - assets/images/nav_home_green.png
+    - assets/images/nav_mall.png
+    - assets/images/nav_mall_green.png
+    - assets/images/nav_discover.png
+    - assets/images/nav_inbox.png
+    - assets/images/nav_account.png
+    - assets/images/shop_plant_main.png
+    - assets/images/map_location.png
+    - assets/images/shop_plant_1.png
+    - assets/images/shop_plant_2.png
+    - assets/images/shop_plant_3.png
+    - assets/images/shop_plant_4.png
+    - assets/images/shop_plant_5.png

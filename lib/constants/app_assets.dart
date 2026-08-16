@@ -1,0 +1,36 @@
+class A {
+  A._();
+  static const String _b = 'assets/images';
+  static const String homeBanner   = '$_b/home_banner.jpg';
+  static const String trending     = '$_b/trending.jpg';
+  static const String plantProduct = '$_b/plant_product.jpg';
+  static const String badge50      = '$_b/badge_50.png';
+  static const String btnShop      = '$_b/btn_shop.png';
+  static const String btnServices  = '$_b/btn_services.png';
+  static const String btnPosts     = '$_b/btn_posts.png';
+  static const String btnIcon1     = '$_b/btn_icon_1.png';
+  static const String btnIcon2     = '$_b/btn_icon_2.png';
+  static const String btnIcon3     = '$_b/btn_icon_3.png';
+  static const String btnIcon4     = '$_b/btn_icon_4.png';
+  static const String btnIcon5     = '$_b/btn_icon_5.png';
+  static const String iconSearch   = '$_b/icon_search.png';
+  static const String iconFilter   = '$_b/icon_filter.png';
+  static const String iconLocation = '$_b/icon_location.png';
+  static const String iconClock    = '$_b/icon_clock.png';
+  static const String iconCalendar = '$_b/icon_calendar.png';
+  static const String iconArrow    = '$_b/icon_arrow.png';
+  static const String iconArrowLg  = '$_b/icon_arrow_lg.png';
+  static const String navHome      = '$_b/nav_home.png';
+  static const String navHomeGreen = '$_b/nav_home_green.png';
+  static const String navMall      = '$_b/nav_mall.png';
+  static const String navMallGreen = '$_b/nav_mall_green.png';
+  static const String navDiscover  = '$_b/nav_discover.png';
+  static const String navInbox     = '$_b/nav_inbox.png';
+  static const String navAccount   = '$_b/nav_account.png';
+  static const String shopMain     = '$_b/shop_plant_main.png';
+  static const String shop1        = '$_b/shop_plant_1.png';
+  static const String shop2        = '$_b/shop_plant_2.png';
+  static const String shop3        = '$_b/shop_plant_3.png';
+  static const String shop4        = '$_b/shop_plant_4.png';
+  static const String shop5        = '$_b/shop_plant_5.png';
+}
